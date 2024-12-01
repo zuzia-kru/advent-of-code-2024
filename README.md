@@ -1,3 +1,5 @@
+Using https://github.com/mhanberg/advent-of-code-elixir-starter
+
 # Advent of Code Elixir Starter
 
 A batteries included starter pack for participating in [Advent of Code](https://www.adventofcode.com) using Elixir!
